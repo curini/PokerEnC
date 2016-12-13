@@ -1,4 +1,3 @@
-# PokerEnC
 Poker en C
 ==========
 
