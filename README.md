@@ -6,4 +6,4 @@ Poker en C
 
 Aperçu du programme
 -------------------
-![image sous Visual C++](/PokerEnC/Capture.PNG )
+![image sous Visual C++](https://github.com/curini/PokerEnC/Capture.PNG )
