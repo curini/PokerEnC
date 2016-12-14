@@ -6,4 +6,4 @@ Poker en C
 
 Aperçu du programme
 -------------------
-![Image of Yaktocat](https://octodex.github.com/PokerEnC/Capture.PNG )
+![image sous Visual C++](/PokerEnC/Capture.PNG )
